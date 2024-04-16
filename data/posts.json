@@ -6,8 +6,21 @@
       "headline": false,
       "title": "Blog Post Title",
       "title_link": "https://github.com",
+      "author": "John Doe",
+      "author_avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png",
       "content": "Blog post content here.",
-      "creation_timestamp": 1712927166
+      "creation_timestamp": 1712927166,
+      "edited_timestamp": null,
+      "likes": 0,
+      "comments": [
+        {
+          "author": "Comment Author",
+          "author_avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png",
+          "comment_content": "Comment content here.",
+          "comment_timestamp": 1713273446,
+          "likes": 0
+        }
+      ]
     }
   ]
 }

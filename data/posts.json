@@ -3,6 +3,7 @@
   "posts": [
     {
       "id": 0,
+      "uid": 4321,
       "headline": false,
       "title": "Blog Post Title",
       "title_link": "https://github.com",
@@ -15,6 +16,8 @@
       "shares": 0,
       "comments": [
         {
+          "id": 0,
+          "uid": 1234,
           "author": "Comment Author",
           "author_avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png",
           "comment_content": "Comment content here.",

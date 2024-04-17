@@ -1,5 +1,4 @@
 {
-    "total_posts": 1,
     "posts": [
         {
             "id": 0,
@@ -15,7 +14,6 @@
             "likes": 0,
             "shares": 0,
             "comments": {
-                "total_comments": 1,
                 "comments": [
                     {
                         "id": 0,

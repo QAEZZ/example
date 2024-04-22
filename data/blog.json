@@ -23,6 +23,15 @@
           "comment_content": "Comment content here.",
           "comment_timestamp": 1713273446,
           "likes": 0
+        },
+        {
+          "id": 1,
+          "uid": 3412,
+          "author": "Another Author",
+          "author_avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077114.png",
+          "comment_content": "Another comment content here.",
+          "comment_timestamp": 1713804936,
+          "likes": 2
         }
       ]
     },
